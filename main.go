@@ -53,4 +53,9 @@ func main() {
 	fmt.Println("----------------")
 	Functions()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Closures")
+	fmt.Println("----------------")
+	Closure()
+	fmt.Println("----------------")
 }
