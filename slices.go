@@ -1,6 +1,21 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"io/ioutil"
+	"regexp"
+)
+
+var digitRegexp = regexp.MustCompile("[0-9]+")
+
+// FindDigits find digits in file in a consistent way
+func FindDigits(filename string) []byte {
+	b, _ := ioutil.ReadFile(filename)
+	b = digitRegexp.Find(b)
+	c := make([]byte, len(b))
+	c = append(c, b...)
+	return digitRegexp.Find(b)
+}
 
 // Slices describe slices type for golang
 func Slices() {
@@ -63,4 +78,13 @@ func Slices() {
 	}
 	fmt.Println("2d: ", twoD)
 
+	// To append one slice to another, use ... to expand the second argument to a list of arguments.
+	a := []string{"Ismail", "BahaEddine"}
+	b := []string{"Pogba", "Mane"}
+	a = append(a, b...) // equivalent to "append(a, b[0], b[1], b[2])"
+	fmt.Println("append 2 slices: ", a)
+
+	// Some gotcha
+	// http://blog.golang.org/2011/01/go-slices-usage-and-internals.html
+	fmt.Println("found digits: ", FindDigits("./file.txt"))
 }
