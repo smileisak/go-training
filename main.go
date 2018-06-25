@@ -83,4 +83,9 @@ func main() {
 	fmt.Println("----------------")
 	Interfaces()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Errors")
+	fmt.Println("----------------")
+	Errors()
+	fmt.Println("----------------")
 }
