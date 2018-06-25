@@ -68,4 +68,9 @@ func main() {
 	fmt.Println("----------------")
 	Pointers()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Structs")
+	fmt.Println("----------------")
+	Struct()
+	fmt.Println("----------------")
 }
