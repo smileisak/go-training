@@ -78,4 +78,9 @@ func main() {
 	fmt.Println("----------------")
 	Methods()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Interfaces")
+	fmt.Println("----------------")
+	Interfaces()
+	fmt.Println("----------------")
 }
