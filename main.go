@@ -43,4 +43,14 @@ func main() {
 	fmt.Println("----------------")
 	Maps()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Ranges")
+	fmt.Println("----------------")
+	Range()
+	fmt.Println("----------------")
+
+	fmt.Println("[*] Functions")
+	fmt.Println("----------------")
+	Functions()
+	fmt.Println("----------------")
 }
