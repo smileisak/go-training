@@ -28,4 +28,14 @@ func main() {
 	fmt.Println("----------------")
 	Switch()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Arrays")
+	fmt.Println("----------------")
+	Arrays()
+	fmt.Println("----------------")
+
+	fmt.Println("[*] Slices")
+	fmt.Println("----------------")
+	Slices()
+	fmt.Println("----------------")
 }
