@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Variables is a declaration example
+// Varibales is a declaration example
 func Varibales() {
 	// Declatre 1 or more variables
 	var a = "initial"

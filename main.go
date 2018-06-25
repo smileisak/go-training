@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Println("----------------")
 	fmt.Println("[*] Variables")
 	fmt.Println("----------------")
 	Varibales()
@@ -13,4 +14,18 @@ func main() {
 	Constant()
 	fmt.Println("----------------")
 
+	fmt.Println("[*] For")
+	fmt.Println("----------------")
+	For()
+	fmt.Println("----------------")
+
+	fmt.Println("[*] Else If")
+	fmt.Println("----------------")
+	ElseIf()
+	fmt.Println("----------------")
+
+	fmt.Println("[*] Switch")
+	fmt.Println("----------------")
+	Switch()
+	fmt.Println("----------------")
 }
