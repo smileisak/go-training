@@ -58,4 +58,9 @@ func main() {
 	fmt.Println("----------------")
 	Closure()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Recursive")
+	fmt.Println("----------------")
+	Recursive()
+	fmt.Println("----------------")
 }
