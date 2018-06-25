@@ -38,4 +38,9 @@ func main() {
 	fmt.Println("----------------")
 	Slices()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Maps")
+	fmt.Println("----------------")
+	Maps()
+	fmt.Println("----------------")
 }
