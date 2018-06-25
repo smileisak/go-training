@@ -63,4 +63,9 @@ func main() {
 	fmt.Println("----------------")
 	Recursive()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Pointers")
+	fmt.Println("----------------")
+	Pointers()
+	fmt.Println("----------------")
 }
