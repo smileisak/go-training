@@ -73,4 +73,9 @@ func main() {
 	fmt.Println("----------------")
 	Struct()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Methods")
+	fmt.Println("----------------")
+	Methods()
+	fmt.Println("----------------")
 }
