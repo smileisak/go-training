@@ -93,4 +93,14 @@ func main() {
 	fmt.Println("----------------")
 	GoRoutines()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Channels")
+	fmt.Println("----------------")
+	Channels()
+	fmt.Println("----------------")
+
+	fmt.Println("[*] Channels Buffering")
+	fmt.Println("----------------")
+	ChannelsBuffering()
+	fmt.Println("----------------")
 }
