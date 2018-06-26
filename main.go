@@ -88,4 +88,9 @@ func main() {
 	fmt.Println("----------------")
 	Errors()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Go Routines")
+	fmt.Println("----------------")
+	GoRoutines()
+	fmt.Println("----------------")
 }
