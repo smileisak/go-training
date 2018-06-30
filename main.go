@@ -103,4 +103,9 @@ func main() {
 	fmt.Println("----------------")
 	ChannelsBuffering()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Channel Synchronisation")
+	fmt.Println("----------------")
+	ChannelSync()
+	fmt.Println("----------------")
 }
