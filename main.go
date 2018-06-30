@@ -108,4 +108,9 @@ func main() {
 	fmt.Println("----------------")
 	ChannelSync()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Channel Directions")
+	fmt.Println("----------------")
+	ChannelsDirection()
+	fmt.Println("----------------")
 }
