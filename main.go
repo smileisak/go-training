@@ -138,4 +138,9 @@ func main() {
 	fmt.Println("----------------")
 	Timer()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Tickers")
+	fmt.Println("----------------")
+	Ticker()
+	fmt.Println("----------------")
 }

@@ -37,7 +37,7 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Closing Channels](./close-channels.go)
 1. [Range over Channels](./range-channels.go)
 1. [Timers](./timers.go)
-1. Tickers
+1. [Tickers](./tickers.go)
 1. Worker Pools
 1. Rate Limiting
 1. Atomic Counters
