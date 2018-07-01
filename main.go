@@ -143,4 +143,9 @@ func main() {
 	fmt.Println("----------------")
 	Ticker()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Worker Pools")
+	fmt.Println("----------------")
+	WorkerPool()
+	fmt.Println("----------------")
 }
