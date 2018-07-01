@@ -148,4 +148,9 @@ func main() {
 	fmt.Println("----------------")
 	WorkerPool()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Rate Limiting")
+	fmt.Println("----------------")
+	RateLimiting()
+	fmt.Println("----------------")
 }
