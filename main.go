@@ -133,4 +133,9 @@ func main() {
 	fmt.Println("----------------")
 	RangeChannels()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Timers")
+	fmt.Println("----------------")
+	Timer()
+	fmt.Println("----------------")
 }

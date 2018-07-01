@@ -36,7 +36,7 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Non-Blocking Channel Operations](./channels-non-blocking.go)
 1. [Closing Channels](./close-channels.go)
 1. [Range over Channels](./range-channels.go)
-1. Timers
+1. [Timers](./timers.go)
 1. Tickers
 1. Worker Pools
 1. Rate Limiting
