@@ -123,4 +123,9 @@ func main() {
 	fmt.Println("----------------")
 	NonBlockingChannels()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] No Blocking Channels")
+	fmt.Println("----------------")
+	CloseChannel()
+	fmt.Println("----------------")
 }

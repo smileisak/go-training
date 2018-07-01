@@ -34,7 +34,7 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Channel Directions](./channel-directions.go)
 1. [Select](select.go)
 1. [Non-Blocking Channel Operations](./channels-non-blocking.go)
-1. Closing Channels
+1. [Closing Channels](./close-channels.go)
 1. Range over Channels
 1. Timers
 1. Tickers
