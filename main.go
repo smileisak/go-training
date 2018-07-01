@@ -119,4 +119,8 @@ func main() {
 	Select()
 	fmt.Println("----------------")
 
+	fmt.Println("[*] No Blocking Channels")
+	fmt.Println("----------------")
+	NonBlockingChannels()
+	fmt.Println("----------------")
 }
