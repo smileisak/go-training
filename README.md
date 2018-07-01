@@ -39,7 +39,7 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Timers](./timers.go)
 1. [Tickers](./tickers.go)
 1. [Worker Pools](./worker-pools.go)
-1. Rate Limiting
+1. [Rate Limiting](./rate-limiting.go)
 1. Atomic Counters
 1. Mutexes
 1. Stateful Goroutines
