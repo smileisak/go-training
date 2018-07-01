@@ -41,7 +41,7 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Worker Pools](./worker-pools.go)
 1. [Rate Limiting](./rate-limiting.go)
 1. [Atomic Counters](./atomic-counter.go)
-1. Mutexes
+1. [Mutexes](./mutexes.go)
 1. Stateful Goroutines
 1. Sorting
 1. Sorting by Functions

@@ -158,4 +158,9 @@ func main() {
 	fmt.Println("----------------")
 	AtomicCounter()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Mutexes")
+	fmt.Println("----------------")
+	Mutex()
+	fmt.Println("----------------")
 }
