@@ -153,4 +153,9 @@ func main() {
 	fmt.Println("----------------")
 	RateLimiting()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Atomic Counter")
+	fmt.Println("----------------")
+	AtomicCounter()
+	fmt.Println("----------------")
 }
