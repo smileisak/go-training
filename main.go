@@ -113,4 +113,10 @@ func main() {
 	fmt.Println("----------------")
 	ChannelsDirection()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Select Channels")
+	fmt.Println("----------------")
+	Select()
+	fmt.Println("----------------")
+
 }
