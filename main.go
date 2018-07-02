@@ -163,4 +163,9 @@ func main() {
 	fmt.Println("----------------")
 	Mutex()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Stateful Goroutines")
+	fmt.Println("----------------")
+	StatefulGoRoutines()
+	fmt.Println("----------------")
 }
