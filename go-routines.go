@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"time"
+)
 
 func f(from string) {
 	for i := 0; i < 3; i++ {
@@ -25,7 +28,7 @@ func GoRoutines() {
 
 	// Our two function calls are running asynchronously in separate goroutines now,
 	// so execution falls through to here. This Scanln requires we press a key before the program exits.
-	fmt.Scanln()
+	time.Sleep(2 * time.Second)
 	fmt.Println("Done")
 
 	// When we run this program, we see the output of the blocking call first,
