@@ -169,8 +169,13 @@ func main() {
 	// StatefulGoRoutines()
 	// fmt.Println("----------------")
 
-	fmt.Println("[*] Sorting")
+	// fmt.Println("[*] Sorting")
+	// fmt.Println("----------------")
+	// Sorting()
+	// fmt.Println("----------------")
+
+	fmt.Println("[*] Sorting by functions")
 	fmt.Println("----------------")
-	Sorting()
+	SortByFunc()
 	fmt.Println("----------------")
 }

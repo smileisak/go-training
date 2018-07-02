@@ -44,7 +44,7 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Mutexes](./mutexes.go)
 1. [Stateful Goroutines](./stateful-goroutines.go)
 1. [Sorting](./sorting)
-1. Sorting by Functions
+1. [Sorting by Functions](./sorting-by-func.go)
 1. Panic
 1. Defer
 1. Collection Functions
