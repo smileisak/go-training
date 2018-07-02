@@ -183,4 +183,9 @@ func main() {
 	fmt.Println("----------------")
 	Panic()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Defer")
+	fmt.Println("----------------")
+	Defer()
+	fmt.Println("----------------")
 }
