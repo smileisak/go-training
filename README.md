@@ -47,7 +47,7 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Sorting by Functions](./sorting-by-func.go)
 1. [Panic](./panic.go)
 1. [Defer](./defer.go)
-1. Collection Functions
+1. [Collection Functions](./collection-functions.go)
 1. String Functions
 1. String Formatting
 1. Regular Expressions
