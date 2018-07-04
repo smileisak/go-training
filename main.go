@@ -215,4 +215,10 @@ func main() {
 
 	fmt.Println(Map(strs, strings.ToUpper))
 	fmt.Println("----------------")
+
+	fmt.Println("[*] String Functions")
+	fmt.Println("----------------")
+	StringFunctions()
+	fmt.Println("----------------")
+
 }
