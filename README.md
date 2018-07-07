@@ -50,7 +50,7 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Collection Functions](./collection-functions.go)
 1. [String Functions](./string-functions.go)
 1. [String Formatting](./string-formatting.go)
-1. Regular Expressions
+1. [Regular Expressions](./regex.go)
 1. JSON
 1. Time
 1. Epoch
