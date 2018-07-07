@@ -235,4 +235,9 @@ func main() {
 	fmt.Println("----------------")
 	JSON()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Times")
+	fmt.Println("----------------")
+	Time()
+	fmt.Println("----------------")
 }
