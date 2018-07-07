@@ -221,4 +221,9 @@ func main() {
 	StringFunctions()
 	fmt.Println("----------------")
 
+	fmt.Println("[*] String Formatting")
+	fmt.Println("----------------")
+	StringFormatting()
+	fmt.Println("----------------")
+
 }
