@@ -54,4 +54,7 @@ func Random() {
 	fmt.Print(r3.Intn(100))
 	fmt.Println()
 
+	// See the math/rand package
+	// docs for references on other random quantities that Go can provide.
+	// https://golang.org/pkg/math/rand/
 }
