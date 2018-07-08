@@ -256,4 +256,8 @@ func main() {
 	Random()
 	fmt.Println("----------------")
 
+	fmt.Println("[*] Number Parsing")
+	fmt.Println("----------------")
+	NumberParse()
+	fmt.Println("----------------")
 }
