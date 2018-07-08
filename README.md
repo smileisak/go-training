@@ -58,7 +58,7 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Random Numbers](./random.go)
 1. [Number Parsing](./number-parsing.go)
 1. [URL Parsing](./url-parsing.go)
-1. SHA1 Hashes
+1. [SHA1 Hashes](./sha1-hashes.go)
 1. Base64 Encoding
 1. Reading Files
 1. Writing Files

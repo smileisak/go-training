@@ -265,4 +265,9 @@ func main() {
 	fmt.Println("----------------")
 	URLParse()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] SHA1 Hashing")
+	fmt.Println("----------------")
+	SHA1Hashes()
+	fmt.Println("----------------")
 }
