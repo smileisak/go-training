@@ -270,4 +270,9 @@ func main() {
 	fmt.Println("----------------")
 	SHA1Hashes()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Base64 Encoding")
+	fmt.Println("----------------")
+	Base64()
+	fmt.Println("----------------")
 }
