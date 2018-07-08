@@ -260,4 +260,9 @@ func main() {
 	fmt.Println("----------------")
 	NumberParse()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] URL Parsing")
+	fmt.Println("----------------")
+	URLParse()
+	fmt.Println("----------------")
 }
