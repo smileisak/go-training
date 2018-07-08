@@ -55,7 +55,7 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Time](./time.go)
 1. [Epoch](./epoch.go)
 1. [Time Formatting / Parsing](./time-formatting.go)
-1. Random Numbers
+1. [Random Numbers](./random.go)
 1. Number Parsing
 1. URL Parsing
 1. SHA1 Hashes
