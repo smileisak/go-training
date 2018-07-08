@@ -35,4 +35,14 @@ func SHA1Hashes() {
 	// for example in git commits. Use the %x format verb to convert a hash results to a hex string.
 	fmt.Println(s)
 	fmt.Printf("%x\n", bs)
+
+	/*
+		You can compute other hashes using a similar pattern to the one shown above.
+		For example, to compute MD5 hashes import crypto/md5 and use md5.New().
+
+		Note that if you need cryptographically secure hashes,
+		you should carefully research hash strength!
+
+		https://en.wikipedia.org/wiki/Cryptographic_hash_function
+	*/
 }
