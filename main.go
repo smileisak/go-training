@@ -291,4 +291,9 @@ func main() {
 	EnvVars()
 	fmt.Println("----------------")
 
+	fmt.Println("[*] Signals")
+	fmt.Println("----------------")
+	Signals()
+	fmt.Println("----------------")
+
 }
