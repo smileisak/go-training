@@ -64,7 +64,7 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Writing Files](./writing-files.go)
 1. [Line Filters](./filters/line-filter.go)
 1. [Command-Line Arguments](./cmd/args/args.go)
-1. Command-Line Flags
+1. [Command-Line Flags](./cmd/flags/flags.go)
 1. Environment Variables
 1. Spawning Processes
 1. Exec'ing Processes
