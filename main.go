@@ -275,4 +275,9 @@ func main() {
 	fmt.Println("----------------")
 	Base64()
 	fmt.Println("----------------")
+
+	fmt.Println("[*] Reading Files")
+	fmt.Println("----------------")
+	ReadFiles()
+	fmt.Println("----------------")
 }
