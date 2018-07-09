@@ -62,7 +62,7 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Base64 Encoding](./bas64.go)
 1. [Reading Files](./reading-files.go)
 1. [Writing Files](./writing-files.go)
-1. Line Filters
+1. [Line Filters](./filters/line-filter.go)
 1. Command-Line Arguments
 1. Command-Line Flags
 1. Environment Variables
