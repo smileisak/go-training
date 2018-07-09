@@ -67,7 +67,7 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Command-Line Flags](./cmd/flags/flags.go)
 1. [Environment Variables](./envvars.go)
 1. [Spawning Processes](./cmd/process/spawn/main.go)
-1. Exec'ing Processes
+1. [Exec'ing Processes](./cmd/process/exec/exec.go)
 1. Signals
 1. Exit
 
