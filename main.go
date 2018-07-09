@@ -296,4 +296,9 @@ func main() {
 	Signals()
 	fmt.Println("----------------")
 
+	fmt.Println("[*] Exit")
+	fmt.Println("----------------")
+	Exit()
+	fmt.Println("----------------")
+
 }
