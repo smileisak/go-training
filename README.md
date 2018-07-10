@@ -1,4 +1,4 @@
-# GoLang Training
+# GoLang Training [![Go Report Card](https://goreportcard.com/badge/github.com/smileisak/go-training)](https://goreportcard.com/report/github.com/smileisak/go-training)
 
 This repository contains my training path to master GoLang in one month.
 
