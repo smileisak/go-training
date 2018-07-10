@@ -23,7 +23,7 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Closures](./closures.go)
 1. [Recursion](./recursive.go)
 1. [Pointers](./pointers.go)
-1. [Structs](./strucs.go)
+1. [Structs](./structs.go)
 1. [Methods](./methods.go)
 1. [Interfaces](./interfaces.go)
 1. [Errors](./errors.go)
