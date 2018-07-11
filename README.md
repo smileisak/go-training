@@ -73,10 +73,10 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 
 # Discovering Go packages:
 
-This section is for discovering Go official or unofficial packages. It is like a sandbox of more advanced examples and tool that can be useful when doing awsome things.
+This section is for discovering Go official or unofficial packages. It is like a sandbox for more advanced examples and tools that can be useful when doing awsome things.
 
 1. [ssh](./ssh/main.go)
 
-    This example uses `golang.org/x/crypto/ssh` to run an arbitary command in a remote server. May be useful when creating programs that needs to make sshing stuff in a remote server.
+    This example uses `golang.org/x/crypto/ssh` to run an arbitary commands in a remote server. May be useful when creating programs that needs to make sshing stuff in a remote server.
 
 
