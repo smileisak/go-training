@@ -75,8 +75,10 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 
 This section is for discovering Go official or unofficial packages. It is like a sandbox for more advanced examples and tools that can be useful when doing awsome things.
 
-1. [ssh](./ssh/main.go)
+1. [ssh](./ssh/cmd/main.go)
 
     This example uses `golang.org/x/crypto/ssh` to run an arbitary commands in a remote server. May be useful when creating programs that needs to make sshing stuff in a remote server.
 
 
+1. [ssh-tunneling](./ssh/tunneling/main.go)
+    This example will establish an ssh tunnel listening from localhost passing through a bastion to a remote server.
