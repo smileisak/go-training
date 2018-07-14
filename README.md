@@ -83,3 +83,7 @@ This section is for discovering Go official or unofficial packages. It is like a
 1. [ssh-tunneling](./ssh/tunneling/main.go)
 
     This example will establish an ssh tunnel listening from localhost passing through a bastion to a remote server.
+
+1. [k8s out-cluster client](./k8s/examples/out-cluster/main.go)
+
+    Discovering k8s go client to list pods and nodes.
