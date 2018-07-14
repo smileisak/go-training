@@ -84,6 +84,5 @@ This section is for discovering Go official or unofficial packages. It is like a
 
     This example will establish an ssh tunnel listening from localhost passing through a bastion to a remote server.
 
-1. [k8s out-cluster client](./k8s/examples/out-cluster/main.go)
-
-    Discovering k8s go client to list pods and nodes.
+1. [Kubernetes go client](https://github.com/kubernetes/client-go/)
+    1. [Out cluster Example](./k8s/examples/out-cluster/main.go): Discovering k8s go client to list pods and nodes from outside the cluster.
