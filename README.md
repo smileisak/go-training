@@ -5,7 +5,7 @@ This repository contains my training path to master GoLang in one month.
 Resources can be found [here](http://harrymoreno.com/2016/06/30/How-to-learn-Golang-in-1-month.html).
 
 
-# Step 1: Go By Examples
+## Step 1: Go By Examples
 Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twitter.com/mmcgrana), i've created one go file for each topic.
 
 1. [Variables](./variables.go)
@@ -70,6 +70,15 @@ Trying out [Go by Example](https://gobyexample.com/) by [@mmcgrana](https://twit
 1. [Exec'ing Processes](./cmd/process/exec/exec.go)
 1. [Signals](./signals.go)
 1. [Exit](./exit.go)
+
+## Step 2: Learn Go with Tests
+
+> Reference: https://quii.gitbook.io/learn-go-with-tests/
+
+1. Hello Example
+    1. [Hello World](./go-testing/hello/hello.go)
+    1. [Hello World Test](./go-testing/hello/hello_test.go)
+
 
 # Discovering Go packages:
 
