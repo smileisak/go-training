@@ -1,8 +1,12 @@
 # GoLang Training [![Go Report Card](https://goreportcard.com/badge/github.com/smileisak/go-training)](https://goreportcard.com/report/github.com/smileisak/go-training)
 
-This repository contains my training path to master GoLang in one month.
+Welcome to my training path to master GoLang in one month. In this repository, I will provide examples and exercises for all the basics of GoLang programming language. Whether you are a beginner or an experienced developer, this training path will help you to improve your skills and learn GoLang in a short amount of time.
 
 Resources can be found [here](http://harrymoreno.com/2016/06/30/How-to-learn-Golang-in-1-month.html).
+
+## Prerequisites
+
+Before starting this training path, you should have basic knowledge of programming concepts and syntax. You should also have GoLang installed on your system. If you don't have GoLang installed, please follow the official installation guide for your operating system: https://golang.org/doc/install.
 
 
 ## Step 1: Go By Examples
